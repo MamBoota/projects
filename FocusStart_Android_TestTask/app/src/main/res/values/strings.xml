@@ -1,0 +1,39 @@
+<resources>
+    <!--  System  -->
+    <string name="app_name">FocusStart_Android_TestTask</string>
+    <string name="request" translatable="true">Request</string>
+    <string name="result" translatable="true">Result</string>
+    <!-- Button -->
+    <string name="button_search" translatable="true">Search</string>
+    <string name="button_delete" translatable="true">Delete</string>
+    <!--  Text Input  -->
+    <string name="tv_input" translatable="true">Enter the first digits of a card number (BIN/IIN)</string>
+    <!--  Text history  -->
+    <string name="tv_history" translatable="true">Request history</string>
+    <string name="tv_history_output" translatable="true">Output text history</string>
+    <!--  BIN  -->
+    <string name="bin" translatable="false">BIN/IIN</string>
+    <!--  Number  -->
+    <string name="card_number" translatable="true">CARD NUMBER</string>
+    <string name="length" translatable="true">LENGTH</string>
+    <string name="luhn" translatable="false">LUHN</string>
+    <!--  Scheme  -->
+    <string name="scheme_network" translatable="true">SCHEME / NETWORK</string>
+    <!--  Type  -->
+    <string name="type" translatable="true">TYPE</string>
+    <!--  Brand  -->
+    <string name="brand" translatable="true">BRAND</string>
+    <!--  Prepaid  -->
+    <string name="prepaid" translatable="true">PREPAID</string>
+    <!--  Country  -->
+    <string name="country" translatable="true">COUNTRY</string>
+    <string name="name_country" translatable="true">Name</string>
+    <string name="latitude" translatable="true">latitude:</string>
+    <string name="longitude" translatable="true">, longitude:</string>
+    <!--  Bank  -->
+    <string name="bank" translatable="true">BANK</string>
+    <string name="name_bank" translatable="true">Name</string>
+    <string name="url" translatable="false">Url</string>
+    <string name="phone" translatable="true">Phone</string>
+    <string name="city" translatable="true">City</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Система  -->
+    <string name="app_name">FocusStart_Android_TestTask</string>
+    <string name="request" translatable="true">Запрос</string>
+    <string name="result" translatable="true">Результат</string>
+    <!-- Кнопки -->
+    <string name="button_search" translatable="true">Поиск</string>
+    <string name="button_delete" translatable="true">Удалить</string>
+    <!--  Ввод текста -->
+    <string name="tv_input" translatable="true">Введите первые цифры номера карты (BIN/IIN)</string>
+    <!--  История запросов  -->
+    <string name="tv_history" translatable="true">История запросов</string>
+    <string name="tv_history_output" translatable="true">История вывода текста</string>
+    <!--  Номер  -->
+    <string name="card_number" translatable="true">НОМЕР КАРТЫ</string>
+    <string name="length" translatable="true">ДЛИНА</string>
+    <!--  Схема  -->
+    <string name="scheme_network" translatable="true">СХЕМА / СЕТЬ</string>
+    <!--  Тип  -->
+    <string name="type" translatable="true">ТИП</string>
+    <!--  Брэнд  -->
+    <string name="brand" translatable="true">БРЭНД</string>
+    <!--  Предоплаченный  -->
+    <string name="prepaid" translatable="true">ПРЕДОПЛАЧЕННЫЙ</string>
+    <!--  Страна  -->
+    <string name="country" translatable="true">СТРАНА</string>
+    <string name="name_country" translatable="true">Название</string>
+    <string name="latitude" translatable="true">широта:</string>
+    <string name="longitude" translatable="true">, долгота:</string>
+    <!--  Банк  -->
+    <string name="bank" translatable="true">БАНК</string>
+    <string name="name_bank" translatable="true">Название</string>
+    <string name="phone" translatable="true">Телефон</string>
+    <string name="city" translatable="true">Город</string>
+</resources>
